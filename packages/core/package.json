@@ -24,7 +24,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@imooc-cli-dev/utils":"^1.0.0"
+    "@imooc-cli-dev/utils": "^1.0.0"
   },
   "bugs": {
     "url": "https://github.com/fionaVg1/imooc-cli-dev/issues"
