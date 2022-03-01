@@ -1,0 +1,23 @@
+{
+  "name": "imooc-cli-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fionaVg1/imooc-cli-dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fionaVg1/imooc-cli-dev/issues"
+  },
+  "homepage": "https://github.com/fionaVg1/imooc-cli-dev#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
