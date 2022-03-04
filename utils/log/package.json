@@ -1,0 +1,35 @@
+{
+  "name": "@imooc-cli-dev/log",
+  "version": "1.0.0",
+  "description": "imooc-cli-dev log",
+  "keywords": [
+    "log"
+  ],
+  "author": "caiwanxia <caiwanxia@dm-ai.cn>",
+  "homepage": "https://github.com/fionaVg1/imooc-cli-dev/tree/main/core/log#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.dm-ai.cn/repository/npm/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fionaVg1/imooc-cli-dev.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/fionaVg1/imooc-cli-dev/issues"
+  },
+  "dependencies": {
+    "npmlog": "^6.0.1"
+  }
+}

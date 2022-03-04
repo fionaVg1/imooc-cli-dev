@@ -19,5 +19,6 @@
   "homepage": "https://github.com/fionaVg1/imooc-cli-dev#readme",
   "devDependencies": {
     "lerna": "^4.0.0"
-  }
+  },
+  "dependencies": {}
 }
