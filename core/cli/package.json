@@ -26,10 +26,16 @@
   "dependencies": {
     "@imooc-cli-dev/log": "file:../../utils/log",
     "@imooc-cli-dev/utils": "file:../../utils/utils",
+    "@imooc-cli-dev/get-npm-info": "file:../../utils/get-npm-info",
     "colors": "^1.4.3",
+    "dotenv": "^16.0.0",
     "import-local": "^3.1.0",
+    "minimist": "^1.2.5",
     "npmlog": "^6.0.1",
-    "semver": "^7.3.5"
+    "path-exists": "^5.0.0",
+    "root-check": "^2.0.0",
+    "semver": "^7.3.5",
+    "user-home": "^3.0.0"
   },
   "bugs": {
     "url": "https://github.com/fionaVg1/imooc-cli-dev/issues"
